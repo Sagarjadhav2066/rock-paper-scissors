@@ -1,7 +1,5 @@
 # rock-paper-scissors
 SCRUM-9 nkndka
-SCRUM-5 Code
-
 import random
 
 def get_computer_choice():
